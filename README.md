@@ -10,3 +10,6 @@
 
 
 ### Creational Patterns
+
+- Builder pattern
+- Singleton pattern
